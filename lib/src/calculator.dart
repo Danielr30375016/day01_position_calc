@@ -1,3 +1,4 @@
+
 enum Side { buy, sell }
 
 enum InvalidReason {
